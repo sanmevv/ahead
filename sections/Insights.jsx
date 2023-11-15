@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 
 
 const styles = {
-  container: 'mx-auto px-2 py-4 max-w-7xl',
+  container: 'mx-auto px-8 py-10 max-w-7xl',
   header: 'flex justify-between items-center w-full',
   sectionHeading: 'text-4xl font-bold',
   logo: 'h-12', 
