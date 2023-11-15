@@ -49,7 +49,7 @@ const SelfImprovementSteps = () => (
       <TypingText title="Self-Improvement Redefined." />
       <motion.h1
         variants={fadeIn('up', 'tween', 0.3, 0)}
-        className="text-left-center text-5xl font-bold my-8"
+        className="text-left-center text-4xl font-bold my-8"
       >
         Self-improvement. Ugh.
       </motion.h1>
