@@ -14,7 +14,7 @@ const VacanciesSection = () => (
     >
       <motion.h2
         variants={fadeIn('up')}
-        className="text-left-center font-bold text-2xl lg:text-3xl mb-10"
+        className="text-center font-bold text-2xl lg:text-3xl mb-10"
       >
         Open vacancies
       </motion.h2>
