@@ -32,7 +32,7 @@ const GetStarted = () => (
       >
         <TypingText title="Built out of frustration" />
         <TitleText title="Meet the ahead app" />
-        <div className="mt-[31px] max-w-[370px] text-neutral-950">
+        <div className="mt-[31px] max-w-[350px] text-neutral-950">
           {startingFeatures.map((feature, index) => (
             <p key={feature} className="mb-4">
               {feature}
