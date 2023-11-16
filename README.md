@@ -19,17 +19,3 @@ The Ahead App redesign is a concept that focuses on delivering a sleek, user-fri
 * Framer Motion: Adds sophisticated animation effects, enhancing UX.
 * Responsive Design: Looks great on mobile, tablet, and desktop screens.
 * Modern UI/UX (Figma): Focuses on clean design and usability.
-* 
-![Alt text](image.png)
-
-![Alt text](image-1.png)
-
-![Alt text](image-2.png)
-
-![Alt text](image-3.png)
-
-![Alt text](image-4.png)
-
-![Alt text](image-5.png)
-
-![Alt text](image-6.png)
