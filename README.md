@@ -6,6 +6,12 @@ In this project, the front-end implementation of the "Ahead App - Mockup by Tara
 ### Overview
 The Ahead App redesign is a concept that focuses on delivering a sleek, user-friendly interface with an emphasis on interactivity and responsiveness. This implementation aims to bring the concept to life, leveraging the power of Next.js for server-side rendering and TailwindCSS for a utility-first approach to styling.
 
+### Technologies Used
+- Next.js
+- TailwindCSS
+- JavaScript
+- Framer Motion
+
 ### Features
 * Next.js Framework: Enhances performance, SEO, and server-side rendering.
 * Tailwind CSS: Implements a custom, responsive design rapidly.
@@ -13,13 +19,7 @@ The Ahead App redesign is a concept that focuses on delivering a sleek, user-fri
 * Framer Motion: Adds sophisticated animation effects, enhancing UX.
 * Responsive Design: Looks great on mobile, tablet, and desktop screens.
 * Modern UI/UX (Figma): Focuses on clean design and usability.
-
-### Technologies Used
-- Next.js
-- TailwindCSS
-- JavaScript
-- Framer Motion
-
+* 
 ![Alt text](image.png)
 
 ![Alt text](image-1.png)
