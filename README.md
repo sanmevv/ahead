@@ -1,18 +1,18 @@
-# Ahead App (Dribbble Redesign Concept Mockup)
-## Next.js, TailwindCSS, and Framer Motion Implementation
+### Ahead App (Dribbble Redesign Concept Mockup)
+#### Next.js, TailwindCSS, and Framer Motion Implementation
 
 In this project, the front-end implementation of the "Ahead App - Mockup by Taras Migulko," is done as originally featured on Dribbble(https://dribbble.com/shots/19807069-Ahead-app-redesign-concept). This modern, responsive web application is built with Next.js, TailwindCSS, and JavaScript, and enhanced with Framer Motion for smooth and engaging animations. A modern responsive web application.
 
-### Overview
+#### Overview
 The Ahead App redesign is a concept that focuses on delivering a sleek, user-friendly interface with an emphasis on interactivity and responsiveness. This implementation aims to bring the concept to life, leveraging the power of Next.js for server-side rendering and TailwindCSS for a utility-first approach to styling.
 
-### Technologies Used
+#### Technologies Used
 - Next.js
 - TailwindCSS
 - JavaScript
 - Framer Motion
 
-### Features
+#### Features
 * Next.js Framework: Enhances performance, SEO, and server-side rendering.
 * Tailwind CSS: Implements a custom, responsive design rapidly.
 * JavaScript: Ensures dynamic interactivity and seamless user experiences.
